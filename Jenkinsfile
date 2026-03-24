@@ -29,3 +29,9 @@ pipeline {
         }
     }
 }
+
+                bat 'copy index.html C:\\xampp\\htdocs\\'
+            }
+        }
+    }
+}
